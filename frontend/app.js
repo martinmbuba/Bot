@@ -1,4 +1,4 @@
-const API_BASE = '/api';
+const API_BASE = 'https://bot-1-7ihp.onrender.com/api';
 
 const statusEl = document.getElementById('status');
 const connectBtn = document.getElementById('connectBtn');
